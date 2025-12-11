@@ -53,7 +53,7 @@ function menu() {
         rl.close();
         break;
       default:
-        console.log('❌ Opción no válida.');
+        console.log(' Opción no válida.');
         menu();
     }
   });
